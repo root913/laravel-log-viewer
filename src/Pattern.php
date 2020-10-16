@@ -1,11 +1,11 @@
 <?php
 
-namespace Rap2hpoutre\LaravelLogViewer;
+namespace root913\LaravelLogViewer;
 
 /**
  * Class Pattern
  * @property array patterns
- * @package Rap2hpoutre\LaravelLogViewer
+ * @package root913\LaravelLogViewer
  */
 
 class Pattern

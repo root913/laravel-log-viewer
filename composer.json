@@ -1,13 +1,13 @@
 {
-    "name": "rap2hpoutre/laravel-log-viewer",
+    "name": "root913/laravel-log-viewer",
     "description": "A Laravel log reader",
     "license": "MIT",
     "keywords": ["log", "log-reader", "log-viewer", "logging", "laravel", "lumen"],
     "type": "laravel-package",
     "authors": [
         {
-            "name": "rap2hpoutre",
-            "email": "raphaelht@gmail.com"
+            "name": "root913",
+            "email": "krzycho1717@gmail.com"
         }
     ],
     "require": {
@@ -22,19 +22,19 @@
         "classmap": [
             "src/controllers"
         ],
-        "psr-0": {
-            "Rap2hpoutre\\LaravelLogViewer\\": "src/"
+        "psr-4": {
+            "root913\\LaravelLogViewer\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Rap2hpoutre\\LaravelLogViewer\\Test\\": "tests/"
+            "root913\\LaravelLogViewer\\Test\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Rap2hpoutre\\LaravelLogViewer\\LaravelLogViewerServiceProvider"
+                "LaravelLogViewerServiceProvider"
             ]
         }
     },

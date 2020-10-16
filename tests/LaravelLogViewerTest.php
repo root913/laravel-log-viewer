@@ -1,8 +1,9 @@
 <?php
 
-namespace Rap2hpoutre\LaravelLogViewer;
+namespace root913\LaravelLogViewer\Test;
 
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
+use root913\LaravelLogViewer\LaravelLogViewer;
 
 /**
  * Class LaravelLogViewerTest
