@@ -1,12 +1,12 @@
 Laravel log viewer
 ==================
 
-[![Packagist](https://img.shields.io/packagist/v/rap2hpoutre/laravel-log-viewer.svg)](https://packagist.org/packages/rap2hpoutre/laravel-log-viewer)
-[![Packagist](https://img.shields.io/packagist/l/rap2hpoutre/laravel-log-viewer.svg)](https://packagist.org/packages/rap2hpoutre/laravel-log-viewer) 
-[![Packagist](https://img.shields.io/packagist/dm/rap2hpoutre/laravel-log-viewer.svg)](https://packagist.org/packages/rap2hpoutre/laravel-log-viewer) 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/rap2hpoutre/laravel-log-viewer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/rap2hpoutre/laravel-log-viewer/?branch=master) 
-[![Build Status](https://scrutinizer-ci.com/g/rap2hpoutre/laravel-log-viewer/badges/build.png?b=master)](https://scrutinizer-ci.com/g/rap2hpoutre/laravel-log-viewer/build-status/master)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7be7a05b07c94f319ec35f95a4d64074)](https://www.codacy.com/app/rap2hpoutre/laravel-log-viewer)
+[![Packagist](https://img.shields.io/packagist/v/root913/laravel-log-viewer.svg)](https://packagist.org/packages/root913/laravel-log-viewer)
+[![Packagist](https://img.shields.io/packagist/l/root913/laravel-log-viewer.svg)](https://packagist.org/packages/root913/laravel-log-viewer) 
+[![Packagist](https://img.shields.io/packagist/dm/root913/laravel-log-viewer.svg)](https://packagist.org/packages/root913/laravel-log-viewer) 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/root913/laravel-log-viewer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/root913/laravel-log-viewer/?branch=master) 
+[![Build Status](https://scrutinizer-ci.com/g/root913/laravel-log-viewer/badges/build.png?b=master)](https://scrutinizer-ci.com/g/root913/laravel-log-viewer/build-status/master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7be7a05b07c94f319ec35f95a4d64074)](https://www.codacy.com/app/root913/laravel-log-viewer)
 [![Author](https://img.shields.io/badge/author-@rap2h-blue.svg)](https://twitter.com/rap2h)
 
 
@@ -21,7 +21,7 @@ Small log viewer for laravel. Looks like this:
 ## Install (Laravel)
 Install via composer
 ```bash
-composer require rap2hpoutre/laravel-log-viewer
+composer require root913/laravel-log-viewer
 ```
 
 Add Service Provider to `config/app.php` in `providers` section
@@ -39,7 +39,7 @@ Go to `http://myapp/logs` or some other route
 ### Install (Lumen)
 Install via composer
 ```bash
-composer require rap2hpoutre/laravel-log-viewer
+composer require root913/laravel-log-viewer
 ```
 
 Add the following in `bootstrap/app.php`:
