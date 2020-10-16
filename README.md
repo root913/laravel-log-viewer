@@ -4,8 +4,6 @@ Laravel log viewer
 [![Packagist](https://img.shields.io/packagist/v/root913/laravel-log-viewer.svg)](https://packagist.org/packages/root913/laravel-log-viewer)
 [![Packagist](https://img.shields.io/packagist/l/root913/laravel-log-viewer.svg)](https://packagist.org/packages/root913/laravel-log-viewer) 
 [![Packagist](https://img.shields.io/packagist/dm/root913/laravel-log-viewer.svg)](https://packagist.org/packages/root913/laravel-log-viewer) 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/root913/laravel-log-viewer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/root913/laravel-log-viewer/?branch=master) 
-[![Build Status](https://scrutinizer-ci.com/g/root913/laravel-log-viewer/badges/build.png?b=master)](https://scrutinizer-ci.com/g/root913/laravel-log-viewer/build-status/master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7be7a05b07c94f319ec35f95a4d64074)](https://www.codacy.com/app/root913/laravel-log-viewer)
 [![Author](https://img.shields.io/badge/author-@rap2h-blue.svg)](https://twitter.com/rap2h)
 
